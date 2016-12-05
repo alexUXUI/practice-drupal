@@ -1,0 +1,6 @@
+name = Greeting
+description = display greeting
+package = my first module
+core = 7.x
+
+files[] = greeting.module

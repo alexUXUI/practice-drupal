@@ -1,0 +1,6 @@
+name = Specials
+description = Show Specials
+package = my first special module
+core = 7.x
+
+files[] = specials.module
